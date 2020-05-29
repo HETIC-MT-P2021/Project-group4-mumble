@@ -34,3 +34,18 @@ $ cd front
 $ docker-compose up
 Go to localhost:3000
 ```
+
+## Install
+
+## Usage
+
+## Author
+👤 **Agostin Jean-baptiste**
+<br/>
+👤 **Cofis Jacques**
+<br/>
+👤 **Dufour Fakhouri Corto**
+
+## License
+
+All the content is under [MIT license](https://github.com/HETIC-MT-P2021/Project-group4-mumble/blob/master/LICENCE).
