@@ -18,10 +18,19 @@
 </p>
 
 
-## Symfony 
+## Back services 
 
 For run the symfony project
 ```
 $ cd docker
 $ docker-compose up
+Go to localhost:80
+```
+
+## Front services
+ For run the front project
+```
+$ cd front
+$ docker-compose up
+Go to localhost:3000
 ```
