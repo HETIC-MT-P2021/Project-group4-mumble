@@ -35,10 +35,6 @@ $ docker-compose up
 Go to localhost:3000
 ```
 
-## Install
-
-## Usage
-
 ## Author
 👤 **Agostin Jean-baptiste**
 <br/>
