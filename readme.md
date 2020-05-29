@@ -1,7 +1,7 @@
 # Mumble
 <p align="center">
   <a href="" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/HETIC-MT-P2021/aio-group4-proj01/blob/master/.github/assets/logo-mumble.png?raw=true" alt="Mumble logo">
+    <img src="https://github.com/HETIC-MT-P2021/Project-group4-mumble/blob/master/.github/assets/logo-mumble.png?raw=true" alt="Mumble logo">
   </a>
 </p>
 
